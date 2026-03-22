@@ -4,7 +4,7 @@ A production-ready MERN stack portfolio website with a dark premium design, smoo
 
 ## Tech Stack
 
-**Frontend:** React 18, Vite, Tailwind CSS 3, Framer Motion, Lucide React  
+**Frontend:** React 19, Vite, Tailwind CSS 3, Framer Motion, Lucide React  
 **Backend:** Node.js, Express 4, MongoDB (Mongoose), express-validator  
 **Design:** Dark premium theme with custom Tailwind palette and Framer Motion animations
 
